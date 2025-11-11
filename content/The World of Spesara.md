@@ -1,12 +1,8 @@
 ---
-longform:
-  format: single
-  title: The World of Spesara
----
----
-title: Superpuper
+project: The World of Spesara
+title: The World of Spesara
 draft: false
 tags:
-  - signmus
+  - players
 ---
-The rest of your content lives here. You can use **Markdown** here :)
+
